@@ -3,7 +3,6 @@
 Group project for **WIA1006 / WID3006 Machine Learning** (Sem 2, 2025/2026).
 A full ML pipeline predicting `match_outcome` (10 classes) from a synthetic dating-app behaviour dataset.
 
-> **Group members:** _add names here_
 
 ## Problem
 Multi-class classification of dating-app `match_outcome` (e.g. Mutual Match, Ghosted, Catfished).
