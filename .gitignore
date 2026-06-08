@@ -1,0 +1,24 @@
+# Generated preprocessing artifacts (regenerate by running notebook 1)
+X_train.csv
+X_test.csv
+y_train.csv
+y_test.csv
+*.joblib
+
+# Generated charts
+*.png
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node (used only to build the slide; not part of the project)
+node_modules/
+pptx_build/
