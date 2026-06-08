@@ -1,6 +1,6 @@
-# SwipeWise — Predicting the Fate of a Match
+# SwipeWise — Predicting the Fate of a Match !
 
-Group project for **WIA1006 / WID3006 Machine Learning** (Sem 2, 2025/2026).
+YELLO! Just a fun little project
 A full ML pipeline predicting `match_outcome` (10 classes) from a synthetic dating-app behaviour dataset.
 
 
